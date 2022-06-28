@@ -68,7 +68,6 @@ cask docker
 cask figma
 cask firefox
 cask kitty
-cask loom
 cask openkey
 cask postman
 cask rectangle
