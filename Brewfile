@@ -45,6 +45,7 @@ brew rtmpdump
 brew screenresolution
 brew sqlite
 brew starship
+brew stow
 brew swiftformat
 brew swiftlint
 brew tree-sitter
@@ -74,7 +75,6 @@ cask rectangle
 cask swiftformat-for-xcode
 cask warp
 cask zalo
-cask zoom
 
 tap buo/cask-upgrade
 
