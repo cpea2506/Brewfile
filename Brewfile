@@ -43,6 +43,7 @@ brew python@3.9
 brew readline
 brew rtmpdump
 brew screenresolution
+brew shfmt
 brew sqlite
 brew starship
 brew stow
