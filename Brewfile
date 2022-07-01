@@ -66,6 +66,7 @@ tap homebrew/cask-versions
 
 tap homebrew/cask
 cask dbeaver-community
+cask discord
 cask docker
 cask figma
 cask firefox
