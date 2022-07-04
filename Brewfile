@@ -43,6 +43,7 @@ brew python@3.9
 brew readline
 brew rtmpdump
 brew screenresolution
+brew shellcheck
 brew shfmt
 brew sqlite
 brew starship
@@ -67,7 +68,6 @@ tap homebrew/cask-versions
 tap homebrew/cask
 cask dbeaver-community
 cask discord
-cask docker
 cask figma
 cask firefox
 cask kitty
