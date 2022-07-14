@@ -22,6 +22,7 @@ brew libunistring
 brew libuv
 brew libvterm
 brew lua
+brew luajit
 brew luajit-openresty
 brew luarocks
 brew luv
@@ -47,7 +48,6 @@ brew shellcheck
 brew shfmt
 brew sqlite
 brew starship
-brew stow
 brew swiftformat
 brew swiftlint
 brew tree-sitter
