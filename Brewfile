@@ -5,6 +5,7 @@ tap homebrew/core
 brew brotli
 brew c-ares
 brew ca-certificates
+brew cocoapods
 brew curl
 brew exa
 brew gdbm
@@ -21,6 +22,7 @@ brew libtool
 brew libunistring
 brew libuv
 brew libvterm
+brew libyaml
 brew lua
 brew luajit
 brew luajit-openresty
@@ -43,6 +45,7 @@ brew pnpm
 brew python@3.9
 brew readline
 brew rtmpdump
+brew ruby
 brew screenresolution
 brew shellcheck
 brew shfmt
@@ -50,6 +53,7 @@ brew sqlite
 brew starship
 brew swiftformat
 brew swiftlint
+brew topgrade
 brew tree-sitter
 brew unibilium
 brew wget
@@ -57,6 +61,7 @@ brew xz
 brew yarn
 brew zoxide
 brew zsh
+brew zsh-completions
 brew zstd
 
 tap homebrew/bundle
@@ -93,9 +98,9 @@ tap sidneys/homebrew
 
 # App Store applications
 appstore 1436953057  Ghostery – Privacy Ad Blocker  (2.4.0)
+appstore 408981434   iMovie                         (10.3.3)
 appstore 409183694   Keynote                        (12.1)
 appstore 1463023539  Lịch Vạn Niên                  (4.1)
 appstore 409203825   Numbers                        (12.1)
 appstore 409201541   Pages                          (12.1)
 appstore 1480933944  Vimari                         (2.1.1)
-appstore 497799835   Xcode                          (13.4.1)
