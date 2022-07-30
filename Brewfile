@@ -2,12 +2,14 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew bat
 brew brotli
 brew c-ares
 brew ca-certificates
 brew cocoapods
 brew curl
 brew exa
+brew fzf
 brew gdbm
 brew gettext
 brew git
