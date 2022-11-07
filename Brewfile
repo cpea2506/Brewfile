@@ -44,6 +44,7 @@ brew openldap
 brew openssl@1.1
 brew pcre
 brew pcre2
+brew pkg-config
 brew pnpm
 brew python@3.10
 brew python@3.9
