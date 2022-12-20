@@ -66,7 +66,6 @@ brew xz
 brew yarn
 brew zoxide
 brew zsh
-brew zsh-completions
 brew zstd
 
 tap homebrew/bundle
@@ -81,11 +80,10 @@ cask dbeaver-community
 cask docker
 cask figma
 cask firefox
-cask kitty
 cask openkey
 cask postman
 cask rectangle
-cask slack
+cask steam
 cask swiftformat-for-xcode
 cask zalo
 
@@ -109,12 +107,12 @@ tap wez/wezterm
 cask wezterm-nightly
 
 # App Store applications
-appstore 1436953057  Ghostery – Privacy Ad Blocker  (9.6.2)
+appstore 1436953057  Ghostery – Privacy Ad Blocker  (9.7.1)
 appstore 1462114288  Grammarly for Safari           (9.63)
-appstore 408981434   iMovie                         (10.3.5)
-appstore 409183694   Keynote                        (12.2)
+appstore 409183694   Keynote                        (12.2.1)
 appstore 1463023539  Lịch Vạn Niên                  (4.1)
-appstore 409203825   Numbers                        (12.2)
-appstore 409201541   Pages                          (12.2)
+appstore 462058435   Microsoft Excel                (16.68)
+appstore 462054704   Microsoft Word                 (16.68)
+appstore 409203825   Numbers                        (12.2.1)
 appstore 425424353   The Unarchiver                 (4.3.5)
 appstore 1480933944  Vimari                         (2.1.1)
