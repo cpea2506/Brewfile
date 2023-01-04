@@ -14,6 +14,7 @@ brew fzf
 brew gdbm
 brew gettext
 brew git
+brew hyperfine
 brew icu4c
 brew krb5
 brew lazygit
@@ -114,5 +115,6 @@ appstore 1463023539  Lịch Vạn Niên                  (4.1)
 appstore 462058435   Microsoft Excel                (16.68)
 appstore 462054704   Microsoft Word                 (16.68)
 appstore 409203825   Numbers                        (12.2.1)
+appstore 403195710   Remote Mouse                   (3.202)
 appstore 425424353   The Unarchiver                 (4.3.5)
 appstore 1480933944  Vimari                         (2.1.1)
