@@ -9,6 +9,7 @@ brew ca-certificates
 brew cmake
 brew cocoapods
 brew curl
+brew docker
 brew exa
 brew fzf
 brew gdbm
@@ -41,6 +42,7 @@ brew ncurses
 brew neofetch
 brew neovim --HEAD
 brew node
+brew node@18
 brew openldap
 brew openssl@1.1
 brew pcre
@@ -81,6 +83,7 @@ cask dbeaver-community
 cask docker
 cask figma
 cask firefox
+cask inkscape
 cask openkey
 cask postman
 cask rectangle
@@ -99,8 +102,6 @@ brew zld
 tap rcmdnk/file
 brew brew-file
 
-tap sidneys/homebrew
-
 tap thezoraiz/ascii-image-converter
 brew ascii-image-converter
 
@@ -112,9 +113,8 @@ appstore 1436953057  Ghostery – Privacy Ad Blocker  (9.7.1)
 appstore 1462114288  Grammarly for Safari           (9.63)
 appstore 409183694   Keynote                        (12.2.1)
 appstore 1463023539  Lịch Vạn Niên                  (4.1)
-appstore 462058435   Microsoft Excel                (16.68)
-appstore 462054704   Microsoft Word                 (16.68)
+appstore 462058435   Microsoft Excel                (16.69.1)
+appstore 462054704   Microsoft Word                 (16.69.1)
 appstore 409203825   Numbers                        (12.2.1)
-appstore 403195710   Remote Mouse                   (3.202)
 appstore 425424353   The Unarchiver                 (4.3.5)
 appstore 1480933944  Vimari                         (2.1.1)
