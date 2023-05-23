@@ -3,22 +3,28 @@
 
 tap homebrew/core
 brew bat
+brew boost
 brew brotli
 brew c-ares
 brew ca-certificates
+brew clang-format
 brew cmake
 brew cocoapods
+brew cookiecutter
+brew cppcheck
 brew curl
-brew docker
+brew dotnet
+brew dua-cli
 brew exa
+brew fmt
 brew fzf
-brew gdbm
 brew gettext
 brew git
 brew hyperfine
 brew icu4c
 brew krb5
 brew lazygit
+brew libgit2
 brew libidn2
 brew libnghttp2
 brew libssh2
@@ -28,6 +34,8 @@ brew libunistring
 brew libuv
 brew libvterm
 brew libyaml
+brew llvm
+brew lpeg
 brew lua
 brew luajit
 brew luajit-openresty
@@ -42,34 +50,55 @@ brew ncurses
 brew neofetch
 brew neovim --HEAD
 brew node
-brew node@18
 brew openldap
 brew openssl@1.1
+brew openssl@3
 brew pcre
 brew pcre2
 brew pkg-config
 brew pnpm
-brew python@3.10
-brew python@3.9
+brew poac
+brew python@3.11
+brew pyyaml
 brew readline
 brew rtmpdump
 brew ruby
 brew screenresolution
 brew shellcheck
 brew shfmt
+brew six
+brew spdlog
 brew sqlite
 brew starship
 brew swiftformat
 brew swiftlint
+brew tinyxml2
 brew topgrade
 brew tree-sitter
 brew unibilium
 brew wget
 brew xz
-brew yarn
+brew z3
 brew zoxide
 brew zsh
 brew zstd
+
+tap homebrew/cask
+cask appcleaner
+cask blender
+cask docker
+cask figma
+cask inkscape
+cask megasync
+cask microsoft-auto-update
+cask microsoft-excel
+cask microsoft-word
+cask mono-mdk
+cask openkey
+cask rectangle
+cask swiftformat-for-xcode
+cask unity
+cask unity-hub
 
 tap homebrew/bundle
 
@@ -77,19 +106,7 @@ tap homebrew/cask-fonts
 
 tap homebrew/cask-versions
 cask discord-ptb
-
-tap homebrew/cask
-cask dbeaver-community
-cask docker
-cask figma
-cask firefox
-cask inkscape
-cask openkey
-cask postman
-cask rectangle
-cask steam
-cask swiftformat-for-xcode
-cask zalo
+cask wezterm-nightly
 
 tap buo/cask-upgrade
 
@@ -102,19 +119,16 @@ brew zld
 tap rcmdnk/file
 brew brew-file
 
+tap shaunsingh/sfmono-nerd-font-ligaturized
+cask font-sf-mono-nerd-font-ligaturized
+
 tap thezoraiz/ascii-image-converter
 brew ascii-image-converter
 
-tap wez/wezterm
-cask wezterm-nightly
-
 # App Store applications
-appstore 1436953057  Ghostery – Privacy Ad Blocker  (9.7.1)
-appstore 1462114288  Grammarly for Safari           (9.63)
-appstore 409183694   Keynote                        (12.2.1)
-appstore 1463023539  Lịch Vạn Niên                  (4.1)
-appstore 462058435   Microsoft Excel                (16.69.1)
-appstore 462054704   Microsoft Word                 (16.69.1)
-appstore 409203825   Numbers                        (12.2.1)
-appstore 425424353   The Unarchiver                 (4.3.5)
-appstore 1480933944  Vimari                         (2.1.1)
+appstore 1436953057 GhosteryLite (10.0.9)
+appstore 409183694 Keynote (13.0)
+appstore 1463023539 Lich Van Nien (4.1)
+appstore 1519867270 Refined GitHub (23.5.10)
+appstore 425424353 The Unarchiver (4.3.5)
+appstore 497799835 Xcode (14.3)
