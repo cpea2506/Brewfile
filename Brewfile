@@ -20,6 +20,7 @@ brew fmt
 brew fzf
 brew gettext
 brew git
+brew git-lfs
 brew hyperfine
 brew icu4c
 brew krb5
@@ -49,6 +50,7 @@ brew msgpack
 brew ncurses
 brew neofetch
 brew neovim --HEAD
+brew ninja
 brew node
 brew openldap
 brew openssl@1.1
@@ -86,7 +88,7 @@ brew zstd
 tap homebrew/cask
 cask appcleaner
 cask blender
-cask docker
+cask cloudflare-warp
 cask figma
 cask inkscape
 cask megasync
@@ -95,7 +97,7 @@ cask microsoft-excel
 cask microsoft-word
 cask mono-mdk
 cask openkey
-cask rectangle
+cask rectangle-pro
 cask swiftformat-for-xcode
 cask unity
 cask unity-hub
@@ -126,7 +128,7 @@ tap thezoraiz/ascii-image-converter
 brew ascii-image-converter
 
 # App Store applications
-appstore 1436953057 GhosteryLite (10.0.9)
+appstore 1436953057 GhosteryLite (10.0.10)
 appstore 409183694 Keynote (13.0)
 appstore 1463023539 Lich Van Nien (4.1)
 appstore 1519867270 Refined GitHub (23.5.10)
