@@ -13,7 +13,6 @@ brew cocoapods
 brew cookiecutter
 brew cppcheck
 brew curl
-brew dotnet
 brew dua-cli
 brew exa
 brew fmt
@@ -89,6 +88,7 @@ tap homebrew/cask
 cask appcleaner
 cask blender
 cask cloudflare-warp
+cask dotnet-sdk
 cask figma
 cask inkscape
 cask megasync
