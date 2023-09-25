@@ -32,7 +32,6 @@ brew libunistring
 brew libuv
 brew libvterm
 brew libyaml
-brew lpeg
 brew lua
 brew luajit
 brew luajit-openresty
@@ -53,7 +52,6 @@ brew openssl@1.1
 brew openssl@3
 brew pcre
 brew pcre2
-brew pkg-config
 brew pnpm
 brew pygments
 brew python-certifi
@@ -97,7 +95,6 @@ cask steam
 cask swiftformat-for-xcode
 cask syntax-highlight
 cask tunnelblick
-cask unity
 cask unity-hub
 cask visual-studio-code
 cask zalo
