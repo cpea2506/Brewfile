@@ -9,10 +9,7 @@ brew c-ares
 brew ca-certificates
 brew clang-format
 brew cmake
-brew cocoapods
-brew cookiecutter
 brew cppcheck
-brew curl
 brew dua-cli
 brew eza
 brew fzf
@@ -32,6 +29,7 @@ brew libunistring
 brew libuv
 brew libvterm
 brew libyaml
+brew lpeg
 brew lua
 brew luajit
 brew luajit-openresty
@@ -43,30 +41,22 @@ brew mas
 brew mpdecimal
 brew msgpack
 brew ncurses
-brew neofetch
-brew neovim
+brew neovim --HEAD
 brew ninja
 brew node
-brew openldap
+brew oniguruma
 brew openssl@1.1
 brew openssl@3
 brew pcre
 brew pcre2
-brew pnpm
-brew pygments
-brew python-certifi
 brew python@3.11
-brew pyyaml
 brew readline
-brew rtmpdump
 brew ruby
-brew screenresolution
+brew sdl2
 brew shellcheck
 brew shfmt
-brew six
 brew sqlite
-brew swiftformat
-brew swiftlint
+brew starship
 brew tinyxml2
 brew topgrade
 brew tree-sitter
@@ -84,7 +74,6 @@ cask cloudflare-warp
 cask dotnet-sdk
 cask figma
 cask megasync
-cask microsoft-auto-update
 cask microsoft-excel
 cask microsoft-word
 cask openkey
@@ -92,7 +81,6 @@ cask orbstack
 cask rectangle-pro
 cask slack
 cask steam
-cask swiftformat-for-xcode
 cask syntax-highlight
 cask tunnelblick
 cask unity-hub
@@ -112,9 +100,6 @@ tap buo/cask-upgrade
 tap epk/epk
 cask font-sf-mono-nerd-font
 
-tap michaeleisel/zld
-brew zld
-
 tap rcmdnk/file
 brew brew-file
 
@@ -125,10 +110,8 @@ tap thezoraiz/ascii-image-converter
 brew ascii-image-converter
 
 # App Store applications
-appstore 1436953057 GhosteryLite (10.1.3)
-appstore 408981434 iMovie (10.3.9)
-appstore 409183694 Keynote (13.2)
+appstore 1436953057 GhosteryLite (10.2.2)
 appstore 1463023539 Lich Van Nien (4.1)
-appstore 1519867270 Refined GitHub (23.8.3)
+appstore 1519867270 Refined GitHub (23.9.21)
 appstore 425424353 The Unarchiver (4.3.5)
-appstore 497799835 Xcode (15.0)
+appstore 497799835 Xcode (15.0.1)
