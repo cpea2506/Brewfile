@@ -12,6 +12,7 @@ brew cmake
 brew cppcheck
 brew dua-cli
 brew eza
+brew fd
 brew fzf
 brew gettext
 brew git
@@ -51,12 +52,15 @@ brew pcre
 brew pcre2
 brew python@3.11
 brew readline
+brew ripgrep
 brew ruby
 brew sdl2
+brew selene
 brew shellcheck
 brew shfmt
 brew sqlite
 brew starship
+brew stylua
 brew tinyxml2
 brew topgrade
 brew tree-sitter
@@ -69,13 +73,16 @@ brew zstd
 
 tap homebrew/cask
 cask appcleaner
-cask blender
 cask cloudflare-warp
 cask dotnet-sdk
 cask figma
-cask megasync
+cask iina
+cask karabiner-elements
+cask microsoft-auto-update
 cask microsoft-excel
+cask microsoft-powerpoint
 cask microsoft-word
+cask obs
 cask openkey
 cask orbstack
 cask rectangle-pro
@@ -110,8 +117,8 @@ tap thezoraiz/ascii-image-converter
 brew ascii-image-converter
 
 # App Store applications
-appstore 1436953057 GhosteryLite (10.2.2)
+appstore 1436953057 GhosteryLite (10.2.5)
 appstore 1463023539 Lich Van Nien (4.1)
-appstore 1519867270 Refined GitHub (23.9.21)
-appstore 425424353 The Unarchiver (4.3.5)
+appstore 1519867270 Refined GitHub (23.11.3)
+appstore 425424353 The Unarchiver (4.3.6)
 appstore 497799835 Xcode (15.0.1)
