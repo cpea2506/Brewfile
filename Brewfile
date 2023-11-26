@@ -44,9 +44,7 @@ brew msgpack
 brew ncurses
 brew neovim --HEAD
 brew ninja
-brew node
 brew oniguruma
-brew openssl@1.1
 brew openssl@3
 brew pcre
 brew pcre2
@@ -73,10 +71,10 @@ brew zstd
 
 tap homebrew/cask
 cask appcleaner
-cask cloudflare-warp
 cask dotnet-sdk
 cask figma
 cask iina
+cask inkscape
 cask karabiner-elements
 cask microsoft-auto-update
 cask microsoft-excel
@@ -84,7 +82,6 @@ cask microsoft-powerpoint
 cask microsoft-word
 cask obs
 cask openkey
-cask orbstack
 cask rectangle-pro
 cask slack
 cask steam
@@ -117,7 +114,7 @@ tap thezoraiz/ascii-image-converter
 brew ascii-image-converter
 
 # App Store applications
-appstore 1436953057 GhosteryLite (10.2.5)
+appstore 1436953057 GhosteryLite (10.2.6)
 appstore 1463023539 Lich Van Nien (4.1)
 appstore 1519867270 Refined GitHub (23.11.3)
 appstore 425424353 The Unarchiver (4.3.6)
