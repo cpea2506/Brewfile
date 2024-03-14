@@ -97,21 +97,19 @@ brew zstd
 
 tap homebrew/cask
 cask appcleaner
+cask cloudflare-warp
+cask discord
 cask dotnet-sdk
 cask figma
 cask iina
 cask inkscape
 cask karabiner-elements
-cask microsoft-auto-update
-cask microsoft-excel
-cask microsoft-powerpoint
-cask microsoft-word
+cask megasync
 cask obs
 cask openkey
 cask parsec
 cask rectangle-pro
 cask slack
-cask steam
 cask syntax-highlight
 cask tunnelblick
 cask unity-hub
@@ -123,7 +121,7 @@ tap homebrew/bundle
 tap homebrew/cask-fonts
 
 tap homebrew/cask-versions
-cask discord-ptb
+cask visual-studio-code-insiders
 cask wezterm-nightly
 
 tap buo/cask-upgrade
@@ -135,14 +133,14 @@ tap rcmdnk/file
 brew brew-file
 
 tap shaunsingh/sfmono-nerd-font-ligaturized
-cask font-sf-mono-nerd-font-ligaturized
 
 tap thezoraiz/ascii-image-converter
 brew ascii-image-converter
 
 # App Store applications
-appstore 1436953057 GhosteryLite (10.2.6)
+appstore 1436953057 GhosteryLite (10.2.13)
 appstore 1463023539 Lich Van Nien (4.1)
-appstore 1519867270 Refined GitHub (23.12.1)
+appstore 409203825 Numbers (13.2)
+appstore 1519867270 Refined GitHub (24.2.8)
 appstore 425424353 The Unarchiver (4.3.6)
-appstore 497799835 Xcode (15.1)
+appstore 497799835 Xcode (15.3)
