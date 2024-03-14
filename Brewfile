@@ -73,6 +73,7 @@ brew pcre2
 brew pixman
 brew pkcs11-helper
 brew python@3.11
+brew python@3.12
 brew readline
 brew ripgrep
 brew ruby
