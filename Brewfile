@@ -7,9 +7,7 @@ brew boost
 brew brotli
 brew c-ares
 brew ca-certificates
-brew clang-format
 brew cmake
-brew cppcheck
 brew dua-cli
 brew eza
 brew fd
@@ -78,14 +76,10 @@ cask cloudflare-warp
 cask discord
 cask dotnet-sdk
 cask google-chrome
-cask iina
-cask megasync
-cask obs
 cask openkey
 cask parsec
 cask rectangle-pro
 cask slack
-cask syntax-highlight
 cask tunnelblick
 cask unity-hub
 cask zalo
@@ -111,10 +105,8 @@ brew brew-file
 tap shaunsingh/sfmono-nerd-font-ligaturized
 
 tap thezoraiz/ascii-image-converter
-brew ascii-image-converter
 
 # App Store applications
-appstore 1436953057 Ghostery – Privacy Ad Blocker (10.2.16)
 appstore 1463023539 Lich Van Nien (4.1)
 appstore 409203825 Numbers (14.0)
 appstore 1519867270 Refined GitHub (24.2.8)
