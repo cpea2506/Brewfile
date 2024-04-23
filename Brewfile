@@ -114,9 +114,10 @@ tap thezoraiz/ascii-image-converter
 brew ascii-image-converter
 
 # App Store applications
-appstore 1436953057 GhosteryLite (10.2.16)
+appstore 1436953057 Ghostery – Privacy Ad Blocker (10.2.16)
 appstore 1463023539 Lich Van Nien (4.1)
 appstore 409203825 Numbers (14.0)
 appstore 1519867270 Refined GitHub (24.2.8)
 appstore 425424353 The Unarchiver (4.3.6)
+appstore 1320666476 Wipr (1.55)
 appstore 497799835 Xcode (15.3)
