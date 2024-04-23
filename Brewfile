@@ -103,6 +103,8 @@ tap buo/cask-upgrade
 tap epk/epk
 cask font-sf-mono-nerd-font
 
+tap oven-sh/bun
+
 tap rcmdnk/file
 brew brew-file
 
@@ -112,7 +114,7 @@ tap thezoraiz/ascii-image-converter
 brew ascii-image-converter
 
 # App Store applications
-appstore 1436953057 GhosteryLite (10.2.15)
+appstore 1436953057 GhosteryLite (10.2.16)
 appstore 1463023539 Lich Van Nien (4.1)
 appstore 409203825 Numbers (14.0)
 appstore 1519867270 Refined GitHub (24.2.8)
