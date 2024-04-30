@@ -8,7 +8,6 @@ brew brotli
 brew c-ares
 brew ca-certificates
 brew cmake
-brew dua-cli
 brew eza
 brew fd
 brew fzf
@@ -75,7 +74,6 @@ cask appcleaner
 cask cloudflare-warp
 cask discord
 cask dotnet-sdk
-cask google-chrome
 cask openkey
 cask parsec
 cask rectangle-pro
@@ -95,19 +93,13 @@ cask wezterm-nightly
 tap buo/cask-upgrade
 
 tap epk/epk
-cask font-sf-mono-nerd-font
 
 tap oven-sh/bun
 
 tap rcmdnk/file
 brew brew-file
 
-tap shaunsingh/sfmono-nerd-font-ligaturized
-
-tap thezoraiz/ascii-image-converter
-
 # App Store applications
-appstore 1463023539 Lich Van Nien (4.1)
 appstore 409203825 Numbers (14.0)
 appstore 1519867270 Refined GitHub (24.2.8)
 appstore 425424353 The Unarchiver (4.3.6)
