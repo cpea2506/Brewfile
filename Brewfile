@@ -7,6 +7,7 @@ brew boost
 brew brotli
 brew c-ares
 brew ca-certificates
+brew chezmoi
 brew cmake
 brew eza
 brew fd
@@ -80,6 +81,8 @@ cask rectangle-pro
 cask slack
 cask tunnelblick
 cask unity-hub
+cask visual-studio-code@insiders
+cask wezterm@nightly
 cask zalo
 
 tap homebrew/bundle
@@ -87,8 +90,6 @@ tap homebrew/bundle
 tap homebrew/cask-fonts
 
 tap homebrew/cask-versions
-cask visual-studio-code-insiders
-cask wezterm-nightly
 
 tap buo/cask-upgrade
 
@@ -98,6 +99,10 @@ tap oven-sh/bun
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Cask applications
+cask visual-studio-code-insiders
+cask wezterm-nightly
 
 # App Store applications
 appstore 409203825 Numbers (14.0)
