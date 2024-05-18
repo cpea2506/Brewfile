@@ -47,7 +47,6 @@ brew openssl@3
 brew pcre
 brew pcre2
 brew pkcs11-helper
-brew python@3.11
 brew python@3.12
 brew ranger
 brew readline
@@ -107,6 +106,6 @@ cask wezterm-nightly
 # App Store applications
 appstore 409203825 Numbers (14.0)
 appstore 1519867270 Refined GitHub (24.2.8)
-appstore 425424353 The Unarchiver (4.3.6)
+appstore 425424353 The Unarchiver (4.3.8)
 appstore 1320666476 Wipr (1.55)
-appstore 497799835 Xcode (15.3)
+appstore 497799835 Xcode (15.4)
