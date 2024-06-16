@@ -42,6 +42,7 @@ brew msgpack
 brew ncurses
 brew neovim --HEAD
 brew ninja
+brew node
 brew oniguruma
 brew openssl@3
 brew pcre
@@ -78,10 +79,10 @@ cask openkey
 cask parsec
 cask rectangle-pro
 cask slack
-cask tunnelblick
 cask unity-hub
 cask visual-studio-code@insiders
 cask wezterm@nightly
+cask whisky
 cask zalo
 
 tap homebrew/bundle
@@ -95,6 +96,7 @@ tap buo/cask-upgrade
 tap epk/epk
 
 tap oven-sh/bun
+brew bun
 
 tap rcmdnk/file
 brew brew-file
@@ -107,5 +109,5 @@ cask wezterm-nightly
 appstore 409203825 Numbers (14.0)
 appstore 1519867270 Refined GitHub (24.2.8)
 appstore 425424353 The Unarchiver (4.3.8)
-appstore 1320666476 Wipr (1.55)
+appstore 1320666476 Wipr (1.56)
 appstore 497799835 Xcode (15.4)
