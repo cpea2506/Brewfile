@@ -106,8 +106,8 @@ cask visual-studio-code-insiders
 cask wezterm-nightly
 
 # App Store applications
-appstore 409203825 Numbers (14.0)
+appstore 409203825 Numbers (14.1)
 appstore 1519867270 Refined GitHub (24.2.8)
 appstore 425424353 The Unarchiver (4.3.8)
-appstore 1320666476 Wipr (1.56)
+appstore 1320666476 Wipr (1.57)
 appstore 497799835 Xcode (15.4)
