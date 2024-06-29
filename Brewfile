@@ -83,7 +83,6 @@ cask unity-hub
 cask visual-studio-code@insiders
 cask wezterm@nightly
 cask whisky
-cask zalo
 
 tap homebrew/bundle
 
@@ -107,6 +106,7 @@ cask wezterm-nightly
 
 # App Store applications
 appstore 409203825 Numbers (14.1)
+appstore 409201541 Pages (14.1)
 appstore 1519867270 Refined GitHub (24.6.14)
 appstore 425424353 The Unarchiver (4.3.8)
 appstore 1320666476 Wipr (1.57)
