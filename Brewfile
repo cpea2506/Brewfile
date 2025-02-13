@@ -7,6 +7,7 @@ brew boost
 brew brotli
 brew c-ares
 brew ca-certificates
+brew cabextract
 brew chezmoi
 brew cmake
 brew eza
@@ -15,7 +16,7 @@ brew fzf
 brew gettext
 brew git
 brew git-lfs
-brew icu4c
+brew john
 brew krb5
 brew lazygit
 brew libgit2
@@ -38,9 +39,10 @@ brew luv
 brew lz4
 brew m4
 brew mas
+brew mpdecimal
 brew msgpack
 brew ncurses
-brew neovim --HEAD
+brew neovim
 brew ninja
 brew node
 brew oniguruma
@@ -48,19 +50,22 @@ brew openssl@3
 brew pcre
 brew pcre2
 brew pkcs11-helper
+brew python@3.13
+brew readline
 brew ripgrep
 brew ruby
 brew sdl2
 brew selene
 brew shellcheck
 brew shfmt
+brew sqlite
+brew sqlmap
 brew starship
 brew stylua
 brew tinyxml2
 brew topgrade
 brew tree-sitter
 brew unibilium
-brew utf8proc
 brew wget
 brew xz
 brew zoxide
@@ -72,9 +77,9 @@ cask appcleaner
 cask discord
 cask dotnet-sdk
 cask openkey
-cask orbstack
 cask parsec
 cask slack
+cask steam
 cask unity-hub
 cask visual-studio-code@insiders
 cask wezterm@nightly
@@ -95,10 +100,12 @@ brew bun
 tap rcmdnk/file
 brew brew-file
 
+# Other Homebrew packages
+brew icu4c
+
 # App Store applications
-appstore 409203825 Numbers (14.1)
-appstore 409201541 Pages (14.1)
-appstore 1519867270 Refined GitHub (24.7.10)
-appstore 1577082754 Subscriptions (2.85)
+appstore 462054704 Microsoft Word (16.93)
+appstore 462058435 Microsoft Excel (16.93.1)
+appstore 1519867270 Refined GitHub (24.12.20)
 appstore 425424353 The Unarchiver (4.3.8)
-appstore 1320666476 Wipr (1.59)
+appstore 1662217862 Wipr (2.2.3)
