@@ -44,7 +44,7 @@ brew mas
 brew mpdecimal
 brew msgpack
 brew ncurses
-brew neovim
+brew neovim --HEAD
 brew ninja
 brew node
 brew oniguruma
