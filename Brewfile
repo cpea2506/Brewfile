@@ -16,6 +16,8 @@ brew fzf
 brew gettext
 brew git
 brew git-lfs
+brew hyperfine
+brew icu4c@76
 brew john
 brew krb5
 brew lazygit
@@ -66,6 +68,7 @@ brew tinyxml2
 brew topgrade
 brew tree-sitter
 brew unibilium
+brew utf8proc
 brew wget
 brew xz
 brew zoxide
@@ -80,6 +83,7 @@ cask openkey
 cask parsec
 cask slack
 cask steam
+cask twingate
 cask unity-hub
 cask visual-studio-code@insiders
 cask wezterm@nightly
@@ -94,18 +98,16 @@ tap buo/cask-upgrade
 
 tap epk/epk
 
+tap mac-cleanup/mac-cleanup-py
+brew mac-cleanup-py
+
 tap oven-sh/bun
 brew bun
 
 tap rcmdnk/file
 brew brew-file
 
-# Other Homebrew packages
-brew icu4c
-
 # App Store applications
-appstore 462054704 Microsoft Word (16.93)
-appstore 462058435 Microsoft Excel (16.93.1)
-appstore 1519867270 Refined GitHub (24.12.20)
-appstore 425424353 The Unarchiver (4.3.8)
-appstore 1662217862 Wipr (2.2.3)
+appstore 1519867270 Refined GitHub (25.2.26)
+appstore 425424353 The Unarchiver (4.3.9)
+appstore 1662217862 Wipr (2.3.3)
