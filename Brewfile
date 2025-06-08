@@ -53,6 +53,7 @@ brew libxdmcp
 brew libxext
 brew libxrender
 brew libyaml
+brew llvm
 brew lpeg
 brew lua
 brew luajit
@@ -66,7 +67,7 @@ brew mas
 brew mpdecimal
 brew msgpack
 brew ncurses
-brew neovim
+brew neovim --HEAD
 brew ninja
 brew node
 brew oniguruma
@@ -98,6 +99,7 @@ brew woff2
 brew xorgproto
 brew xz
 brew yazi
+brew z3
 brew zoxide
 brew zsh
 brew zstd
@@ -109,7 +111,6 @@ cask openkey
 cask parsec
 cask slack
 cask steam
-cask twingate
 cask unity-hub
 cask visual-studio-code@insiders
 cask wezterm@nightly
@@ -134,6 +135,8 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 1519867270 Refined GitHub (25.2.26)
+appstore 571213070 DaVinci Resolve (20.0.0)
+appstore 1519867270 Refined GitHub (25.5.18)
+appstore 1429033973 RunCat (11.4)
 appstore 425424353 The Unarchiver (4.3.9)
-appstore 1662217862 Wipr (2.3.3)
+appstore 1662217862 Wipr (2.7.2)
