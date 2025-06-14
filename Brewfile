@@ -57,7 +57,6 @@ brew llvm
 brew lpeg
 brew lua
 brew luajit
-brew luajit-openresty
 brew luarocks
 brew luv
 brew lz4
@@ -105,6 +104,7 @@ brew zsh
 brew zstd
 
 tap homebrew/cask
+cask alacritty
 cask appcleaner
 cask discord
 cask openkey
@@ -113,20 +113,12 @@ cask slack
 cask steam
 cask unity-hub
 cask visual-studio-code@insiders
-cask wezterm@nightly
-
-tap homebrew/bundle
-
-tap homebrew/cask-fonts
-
-tap homebrew/cask-versions
 
 tap buo/cask-upgrade
 
 tap epk/epk
 
 tap mac-cleanup/mac-cleanup-py
-brew mac-cleanup-py
 
 tap oven-sh/bun
 brew bun
@@ -137,6 +129,5 @@ brew brew-file
 # App Store applications
 appstore 571213070 DaVinci Resolve (20.0.0)
 appstore 1519867270 Refined GitHub (25.5.18)
-appstore 1429033973 RunCat (11.4)
 appstore 425424353 The Unarchiver (4.3.9)
-appstore 1662217862 Wipr (2.7.2)
+appstore 1662217862 Wipr (2.7.3)
