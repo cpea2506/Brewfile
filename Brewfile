@@ -104,11 +104,11 @@ brew zsh
 brew zstd
 
 tap homebrew/cask
-cask alacritty
 cask appcleaner
 cask discord
 cask openkey
 cask parsec
+cask rio
 cask slack
 cask steam
 cask unity-hub
@@ -130,4 +130,4 @@ brew brew-file
 appstore 571213070 DaVinci Resolve (20.0.0)
 appstore 1519867270 Refined GitHub (25.5.18)
 appstore 425424353 The Unarchiver (4.3.9)
-appstore 1662217862 Wipr (2.7.3)
+appstore 1662217862 Wipr (2.8)
