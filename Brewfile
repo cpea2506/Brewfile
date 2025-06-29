@@ -130,4 +130,4 @@ brew brew-file
 appstore 571213070 DaVinci Resolve (20.0.0)
 appstore 1519867270 Refined GitHub (25.5.18)
 appstore 425424353 The Unarchiver (4.3.9)
-appstore 1662217862 Wipr (2.8)
+appstore 1662217862 Wipr (2.8.1)
