@@ -106,13 +106,16 @@ brew zstd
 tap homebrew/cask
 cask appcleaner
 cask discord
+cask megasync
+cask music-presence
 cask openkey
 cask parsec
 cask rio
+cask rustdesk
 cask slack
 cask steam
 cask unity-hub
-cask visual-studio-code@insiders
+cask visual-studio-code
 
 tap buo/cask-upgrade
 
@@ -127,7 +130,7 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 571213070 DaVinci Resolve (20.0.0)
-appstore 1519867270 Refined GitHub (25.5.18)
+appstore 571213070 DaVinci Resolve (20.0.1)
+appstore 1519867270 Refined GitHub (25.7.1)
 appstore 425424353 The Unarchiver (4.3.9)
-appstore 1662217862 Wipr (2.8.1)
+appstore 1662217862 Wipr (2.9.1)
