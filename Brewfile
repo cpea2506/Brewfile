@@ -154,4 +154,4 @@ tap tw93/tap
 # App Store applications
 appstore 1519867270 Refined GitHub (26.2.2)
 appstore 425424353 The Unarchiver (4.3.9)
-appstore 1662217862 Wipr (2.22)
+appstore 1662217862 Wipr (2.23)
