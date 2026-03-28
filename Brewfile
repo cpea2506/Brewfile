@@ -43,7 +43,6 @@ brew lazygit
 brew libdatrie
 brew libgit2
 brew libgit2@1.7
-brew libiconv
 brew libidn2
 brew libnghttp2
 brew libnghttp3
@@ -117,7 +116,7 @@ brew woff2
 brew xorgproto
 brew xz
 brew z3
-brew zlib
+brew zlib-ng-compat
 brew zoxide
 brew zsh
 brew zstd
@@ -152,6 +151,6 @@ brew brew-file
 tap tw93/tap
 
 # App Store applications
-appstore 1519867270 Refined GitHub (26.2.2)
+appstore 1519867270 Refined GitHub (26.3.21)
 appstore 425424353 The Unarchiver (4.3.9)
-appstore 1662217862 Wipr (2.23)
+appstore 1662217862 Wipr (2.25)
